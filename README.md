@@ -6,7 +6,7 @@ Docker Hub page: https://hub.docker.com/r/leapproject/leap-aarch64_ilp32-toolcha
 
 Usage and build instructions: https://wiki.leapproject.ca/index.php?title=AArch64_ILP32_Toolchain
 
-ILP32 Patches: https://github.com/joulecpa/ilp32-toolchain
+ILP32 Patches: https://github.com/leapproject/ilp32-toolchain
 
 LEAP project homepage: https://www.leapproject.ca
 
