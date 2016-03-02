@@ -12,12 +12,10 @@ LEAP project homepage: https://www.leapproject.ca
 
 #Contributors
 
-Chris Tyler
+Chris Tyler - [ctyler](https://github.com/ctyler)
 
-Hong Zhan(Michael) Huang - joulecpa
+Hong Zhan(Michael) Huang - [joulecpa](https://github.com/joulecpa)
 
-Glaser Lo - gklo
+Glaser Lo - [gklo](https://github.com/gklo)
 
-#Resources
-
-Linaro Wiki: https://wiki.linaro.org/Platform/arm64-ilp32
+Thanks to all the amazing works by Linaro and toolchain developers.
